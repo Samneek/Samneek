@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Samneek
-- im just trying to learn the basics then hopefully progress
-- twitter: https://twitter.com/Neek_sam
+- Im just trying to learn the basics then hopefully progress
+- Twitter: https://twitter.com/Neek_sam
+- Steam: https://steamcommunity.com/id/LowAttentionSpan/
 
 <!---
 Samneek/Samneek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
