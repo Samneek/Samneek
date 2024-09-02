@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samneek
 - Im just trying to learn the basics then hopefully progress
-- Twitter: https://twitter.com/Neek_sam
+- Twitter: https://twitter.com/5amueL_101
 - Steam: https://steamcommunity.com/id/LowAttentionSpan/
 
 <!---
