@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samneek
-- Im just trying to learn the basics then hopefully progress
+- Im just trying to learn
 - Twitter: https://twitter.com/5amueL_101
 - Steam: https://steamcommunity.com/id/LowAttentionSpan/
 
