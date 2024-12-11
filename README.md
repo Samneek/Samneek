@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Samneek
+- 👋 Hi, I’m Sam
 - CS student
 - Twitter: https://twitter.com/5amueL_101
+- Reddit: https://www.reddit.com/user/Sam_Loopring_eth/
 - Steam: https://steamcommunity.com/id/LowAttentionSpan/
 
 <!---
