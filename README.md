@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam
+ < Sam >
 - Foundation CS student 
 - Twitter: https://twitter.com/5amueL_101
 - Reddit: https://www.reddit.com/user/Sam_Loopring_eth/
