@@ -1,6 +1,6 @@
  < Sam >
 - CS student 
-- Twitter: https://twitter.com/5amueL_101
+- Twitter: https://x.com/Foresight_100
 - Reddit: https://www.reddit.com/user/Sam_Loopring_eth/
 
 <!---
