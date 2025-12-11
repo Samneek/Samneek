@@ -1,5 +1,4 @@
  < Sam >
-- CS student 
 - Twitter: https://x.com/Foresight_100
 - Reddit: https://www.reddit.com/user/Sam_Loopring_eth/
 
