@@ -1,5 +1,5 @@
  < Sam >
-- Twitter: https://x.com/Foresight_100
+- Twitter: https://x.com/fores1ght_eth
 - Reddit: https://www.reddit.com/user/Sam_Loopring_eth/
 
 <!---
